@@ -8,5 +8,7 @@ System.out.println("MY SECOND COMMIT");
   System.out.println("MY THIRD COMMIT");
   
 System.out.println("NEW BRANCH");
+  System.out.println("Done my changes");
+  
 }
 }
